@@ -1,0 +1,8 @@
+package: testing
+Version: 0.0.1
+Architecture: amd64
+Section: admin
+Essential: no
+Priority: optional
+Maintainer: opunix <francsic.simon@evalgo.org>
+Description: contains the required files to be able to install debian testing pkgs with apt install 
